@@ -1,4 +1,4 @@
-# <p align="center">🧠 NeuroVault</p>
+
 
 <p align="center">
   <img src="assests/neurovault-banner.png" width="100%" alt="NeuroVault Banner">
