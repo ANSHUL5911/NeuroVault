@@ -386,7 +386,7 @@ Request:
 
 ## RAG Pipeline
 
-![RAG](assests/rag.png)
+![RAG](assests/RAG.png)
 
 ---
 
