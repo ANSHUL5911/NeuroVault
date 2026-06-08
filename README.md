@@ -1,7 +1,7 @@
 # <p align="center">🧠 NeuroVault</p>
 
 <p align="center">
-  <img src="assets/neurovault-banner.png" width="100%" alt="NeuroVault Banner">
+  <img src="assests/neurovault-banner.png" width="100%" alt="NeuroVault Banner">
 </p>
 
 <p align="center">
@@ -374,19 +374,19 @@ Request:
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assests/dashboard.png)
 
 ---
 
 ## Semantic Search
 
-![Search](assets/search.png)
+![Search](assests/search.png)
 
 ---
 
 ## RAG Pipeline
 
-![RAG](assets/rag.png)
+![RAG](assests/rag.png)
 
 ---
 
